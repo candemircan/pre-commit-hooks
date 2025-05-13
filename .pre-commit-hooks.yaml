@@ -1,0 +1,5 @@
+- id: add-gitkeep-to-data
+  name: Add .gitkeep to empty data directories
+  entry: add_gitkeep.sh
+  language: script
+
